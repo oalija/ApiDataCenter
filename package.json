@@ -1,0 +1,21 @@
+{
+  "name": "ApiDataCenter",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "KiraTsuki",
+  "contributors": [],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
